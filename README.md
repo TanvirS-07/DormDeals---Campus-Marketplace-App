@@ -38,19 +38,6 @@ DormDeals might also be used by student societies to sell merchandise, study pac
 
 ## Technical Details
 
-### Test Login
-
-Markers can use these accounts:
-
-- **Email:** tester@dormdeals.com  
-- **Password:** abcd1234
-
-- **Email:** tester2@dormdeals.com  
-- **Password:** abcd1234
-
-Two accounts are provided so markers can confirm that users can view other people’s listings but cannot edit or delete listings they do not own by making a listing on one account and viewing it from another account.
-Markers can also create a new account from the sign-up screen, if they wish.
-
 ### Project Structure
 
 - `lib/main.dart` starts Firebase and launches the app.
