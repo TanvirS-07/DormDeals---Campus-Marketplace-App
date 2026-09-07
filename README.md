@@ -1,7 +1,7 @@
 # MobileApplicationAssignment - DormDeals
 
 *COMP3130 - Mobile App Development*
-*Tanvir Singh - 47664916*
+*Tanvir Singh*
 
 **Where Campus Bargains Live**
 
