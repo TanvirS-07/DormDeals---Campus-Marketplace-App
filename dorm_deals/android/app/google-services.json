@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760263151467",
+    "project_id": "dormdeals-5b396",
+    "storage_bucket": "dormdeals-5b396.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760263151467:android:189a102cb2c4a519f4c62e",
+        "android_client_info": {
+          "package_name": "com.tanvir.comp3130.dorm_deals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTtT1eK5jGl0gJZ7WaBD7FKcLEfsnSWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
