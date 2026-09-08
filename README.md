@@ -1,13 +1,11 @@
-# MobileApplicationAssignment - DormDeals
-
-*COMP3130 - Mobile App Development*
+# DormDeals
 *Tanvir Singh*
 
 **Where Campus Bargains Live**
 
 DormDeals is a campus-only marketplace app that helps university students buy and sell useful study and university-related items. Instead of using a large public marketplace with unserious buyers and sellers, students can sell things that are directly relevant to campus life, such as textbooks, study notes, stationery, laptops, lab coats, and other uni essentials. Each listing consists of a title, description, price, category, pickup location, seller information, and an optional item photo.
 
-The app is designed as a MVP for COMP3130 Mobile Application Assignment. It shows how to authenticate users, store databases remotely, perform CRUD operations, and integrate mobile device services. The app allows students to sign up, log in, read listings, make their own, modify or delete them, attach photos, and use their present location for pickup.
+The app is designed as a MVP for a Mobile Application project. It shows how to authenticate users, store databases remotely, perform CRUD operations, and integrate mobile device services. The app allows students to sign up, log in, read listings, make their own, modify or delete them, attach photos, and use their present location for pickup.
 
 ## Main Features
 
