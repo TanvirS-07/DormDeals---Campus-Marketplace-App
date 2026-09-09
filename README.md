@@ -24,15 +24,16 @@ The app is designed as a MVP for a Mobile Application project. It shows how to a
 - Responsive listing cards for both Chrome and Android emulator.
 - Unit and widget tests for important models, screens, and widgets.
 
-## Users
+## Screenshots
 
-The main users are university students looking to buy or sell second-hand uni-related items conveniently on campus.
+### Login
+![Login Screenshot](./dorm_deals/assets/images/login.PNG)
 
-One user persona is **Lucy**, a fourth-year student who has just finished her last math unit and wants to sell her textbook, calculator, and written notes to someone taking the unit next semester. She wants the listing process to be quick, easy, and mobile friendly.
+### Listings
+![Listings Screenshot](./dorm_deals/assets/images/Listings.PNG)
 
-Another user persona is **Adam**, a first-year student who needs a textbook, calculator, and lab coat for pracs and tutorials but does not want to pay retail price for them. He browses at retail stores and even looks at other marketplaces such as FaceBook but Adam chooses DormDeals over Facebook Marketplace because the listings are campus-specific, easier to find in person, and more relevant to university needs.
-
-DormDeals might also be used by student societies to sell merchandise, study packs, or event materials. This MVP provides a consistent app experience for all users, with the potential for adding future features like saved listings, messaging, and verified society accounts.
+### Create New Listing
+![Create New Listing Screenshot](./dorm_deals/assets/images/New%20Listings.PNG)
 
 ## Technical Details
 
